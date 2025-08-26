@@ -14,6 +14,21 @@ It also explains **how each regex works** in an easy-to-understand way.
 
 ---
 
+## 📸 Screenshots
+
+### 📌 Hashtag Extractor
+![Hashtag Extractor](screenshots/hashtag.png)
+
+### 📧 Email Username Extractor
+![Email Username Extractor](screenshots/Email.png)
+
+### 📚 Book Title Extractor
+![Book Title Extractor](screenshots/title.png)
+
+### 📅 Date Extractor
+![Date Extractor](screenshots/date.png)
+
+
 ## 📦 Installation & Usage
 
 Clone the repository:
@@ -42,3 +57,4 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+
